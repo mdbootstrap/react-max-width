@@ -1,8 +1,13 @@
 {
-  "name": "mdb-react-template",
-  "version": "4.0.0",
-  "description": "template for mdb-react-ui-kit",
-  "private": true,
+  "name": "@mdbootstrap/react-max-width",
+  "version": "1.0.0",
+  "description": "Responsive React Max Width built with Bootstrap 5. Learn how to make a container or an element max width within its parent.",
+  "private": false,
+  "homepage": "https://mdbootstrap.com/docs/react/extended/max-width/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/react-max-width.git"
+  },
   "dependencies": {
     "mdb-react-ui-kit": "^4.0.0",
     "react": "^18.1.0",
@@ -19,7 +24,15 @@
   },
   "keywords": [
     "template",
-    "react"
+    "react",
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-template",
+    "bootstrap-theme",
+    "css",
+    "html",
+    "jsx",
+    "js"
   ],
   "author": "MDBootstrap",
   "license": "MIT",
